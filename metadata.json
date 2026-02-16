@@ -1,0 +1,5 @@
+{
+  "name": "OmniCalc: The Intelligent One-Line Calculator",
+  "description": "A sleek, minimalist single-line calculator that handles everything from basic arithmetic to complex natural language math queries using Gemini AI. It features real-time evaluation, calculation history, and a beautiful modern interface.",
+  "requestFramePermissions": []
+}
